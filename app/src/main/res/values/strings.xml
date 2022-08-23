@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">ShoeStore</string>
+
+    <!-- login -->
+    <string name="email_label">email:</string>
+    <string name="password_label">password:</string>
+    <string name="logIn_label">log in</string>
+    <string name="signUp_label">sign up</string>
+
+    <!-- welcome -->
+    <string name="loggedIn_label">You\'re logged in.</string>
+    <string name="welcome_label">Welcome to the shoe store.</string>
+    <string name="instructions_label">show instructions</string>
+
+    <!-- instructions -->
+    <string name="instruction1_label">How to use the Shoe Store</string>
+    <string name="instruction2_label">Use the button to open the store.</string>
+    <string name="shoeList_label">shoe list</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
